@@ -1,13 +1,13 @@
 # CS-beginner-keywords-.
-Introduction to Computer Science
+#Introduction to Computer Science
 Computer Science (CS) is a dynamic field that covers a broad range of topics from theoretical studies of algorithms to practical implementations in software and hardware systems. CS plays a significant role in the development of technology, solving real-world problems through computing. Below are key concepts in Computer Science, with an emphasis on programming, hardware, networking, security, and modern technological trends.
 
-1. Algorithm
+#1. Algorithm
 An algorithm is a sequence of well-defined steps or rules that are followed to complete a task or solve a specific problem. Algorithms are the backbone of computer programs and are applied in various domains such as searching, sorting, cryptography, and machine learning. The efficiency of an algorithm is measured by its time complexity (how fast it runs) and space complexity (how much memory it uses).
 
 Example: The binary search algorithm, which efficiently finds an element in a sorted array by repeatedly dividing the search interval in half.
 
-2. Data Structure
+#2. Data Structure
 A data structure is a way of organizing and storing data so that it can be accessed and modified efficiently. Common data structures include arrays, linked lists, trees, graphs, stacks, and queues. The choice of data structure has a significant impact on the performance of a program, especially when dealing with large amounts of data.
 
 Example: A binary tree is a hierarchical data structure where each node has at most two children. It's commonly used in searching and sorting algorithms.
